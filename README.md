@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/igor-gomes-arantes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/igor-gomes-arantes/" height="30" width="40" /></a>
 <a href="https://kaggle.com/igorgomesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/igorgomesa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/igorgarantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/igorgarantes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/igorgarantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/igorgarantes" height="30" width="40" /></a>
+<a href="https://www.ghackerrank.com/igorgarantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/igorgarantes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/igorgarantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/igorgarantes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
