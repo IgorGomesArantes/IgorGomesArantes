@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">An iOS developer from Brazil</h3>
+<h3 align="center">An iOS developer from Brazil living in Canada</h3>
 
 - 🌱 I’m currently learning **SwiftUI**
 
