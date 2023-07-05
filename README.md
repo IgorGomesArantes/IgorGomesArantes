@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">An iOS developer from Brazil living in Canada</h3>
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI**, **Machine Learning** and **Project management**
 
 - 📫 How to reach me **igorgarantes@gmail.com**
 
